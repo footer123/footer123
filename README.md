@@ -28,7 +28,7 @@ This project is rooted in the vision of transforming how email systems operate, 
 
 ## KX-IM Application & Service    
 
-https://apps.apple.com/cn/app/%E7%BB%9A%E9%93%83%E9%80%9A%E8%AF%9D/id1448338763    
+[kx app](https://apps.apple.com/cn/app/%E7%BB%9A%E9%93%83%E9%80%9A%E8%AF%9D/id1448338763  )  
 
 KX-IM is an IM communication tool that not only includes basic instant messaging features but also allows for custom video ringtones. I completed the development of the iOS version and the backend service API for this project.
 
