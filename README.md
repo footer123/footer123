@@ -18,7 +18,7 @@ A full-stack software engineer with years of experience in mobile app and web de
           
               
 
-## Project
+## Projects
 
 Leo Mail (Original Version)     
 [https://leomail.cc](https://leomail.cc/)
