@@ -21,7 +21,7 @@ A full-stack software engineer with years of experience in mobile app and web de
 ## Projects
 
 Leo Mail (Original Version)     
-[https://leomail.cc](https://leomail.cc/)
+[leomail](https://leomail.cc/)
 
 Leo Mail represents a groundbreaking shift in email communication, harnessing the power of the Aleo Network to offer a decentralized email service.    
 This project is rooted in the vision of transforming how email systems operate, prioritizing user privacy, data security, and autonomy in an increasingly data-sovereign digital environment. By leveraging blockchain technology, Leo Mail addresses the inherent vulnerabilities in traditional, centralized email services, offering a more secure, private, and reliable alternative.
